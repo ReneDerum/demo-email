@@ -6,6 +6,8 @@
 
 .footer{
     background-color: blueviolet;
+    color: white;
+    text-align: center;
 }
 body{
     background-color: brown;
